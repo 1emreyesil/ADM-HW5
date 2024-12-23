@@ -3,6 +3,11 @@
 ![image](https://github.com/user-attachments/assets/c6a15fd6-fa91-4eba-a5d7-8d3f7a648c9d)
 
 
+
+## Files Overview
+- `main.ipynb`: This is the main notebook containing the solutions to the homework, along with a command to install the required packages.
+- `algorithm_question.ipynb`: This is the solution notebook of Algorithm Question.
+
 ## Overview
 
 This project focuses on analyzing a dataset of the USA airport flight network. The dataset includes information about airports, flight routes, and passenger traffic. The goal is to explore the structure of the flight network, identify key airports (hubs), evaluate flight routes, and analyze the connectivity of the network.
