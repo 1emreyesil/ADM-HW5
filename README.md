@@ -1,5 +1,5 @@
 # Homework 5 - USA Airport Flight Analysis
-The present repository contains the solutions to the [5th ADM assignment]([https://github.com/Sapienza-University-Rome/ADM/tree/master/2024/Homework_5]) for the year 2024/2025.
+The present repository contains the solutions to the [5th ADM assignment](https://github.com/Sapienza-University-Rome/ADM/tree/master/2024/Homework_5) for the year 2024/2025.
 
 ![image](https://github.com/user-attachments/assets/c6a15fd6-fa91-4eba-a5d7-8d3f7a648c9d)
 
