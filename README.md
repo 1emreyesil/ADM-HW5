@@ -1,12 +1,18 @@
 # Homework 5 - USA Airport Flight Analysis
+The present repository contains the solutions to the [5th ADM assignment]([https://github.com/Sapienza-University-Rome/ADM/tree/master/2024/Homework_5]) for the year 2024/2025.
 
 ![image](https://github.com/user-attachments/assets/c6a15fd6-fa91-4eba-a5d7-8d3f7a648c9d)
 
-
+#### Collaborators (Group 7):
+- Serena Simonetti ([Serena-Simonetti](https://github.com/Serena-Simonetti))
+- Emre Yesil ([1emreyesil](https://github.com/1emreyesil))   
+- Ata Berk Fırat ([ataberk771](https://github.com/ataberk771))  
+  
 
 ## Files Overview
 - `main.ipynb`: This is the main notebook containing the solutions to the homework, along with a command to install the required packages.
 - `algorithm_question.ipynb`: This is the solution notebook of Algorithm Question.
+- The notebook automatically downloads the dataset via drive link and saves it inside a folder named `Data` when run.
 
 ## Overview
 
